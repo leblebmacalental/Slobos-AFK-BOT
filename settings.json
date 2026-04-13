@@ -8,7 +8,7 @@
   "server": {
     "ip": "jih__.aternos.me:50629",
     "port": 50629,
-    "version": "1.21.1"
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
